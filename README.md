@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alan Sajith</h1>
 <h3 align="center">IInd year undergrad in Computer Science (AI)</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=alansajith&label=Profile%20views&color=0e75b6&style=flat" alt="alansajith" />
 </p>
 
@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact **There is no code without a computer**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://linkedin.com/in/alan sajith" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan sajith" height="30" width="40" />
   </a>
@@ -33,8 +33,8 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
   </a>
@@ -103,21 +103,15 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alansajith&show_icons=true&locale=en&layout=compact" alt="alansajith" />
-</p><br><br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alansajith&show_icons=true&locale=en" alt="alansajith" />
-</p><br><br>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alansajith&" alt="alansajith" />
+<h3 align="center">My Stats:</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alansajith&show_icons=true&locale=en&layout=compact" alt="alansajith" />
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/Alan Sajith">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Alan Sajith" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alansajith&show_icons=true&locale=en" alt="alansajith" />
 </p>
+
+<p align="center">
+  <img
+
