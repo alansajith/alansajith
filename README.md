@@ -113,5 +113,13 @@
 </p>
 
 <p align="center">
-  <img
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alansajith&" alt="alansajith" />
+</p>
+
+<h3 align="center">Support:</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Alan Sajith">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Alan Sajith" />
+  </a>
+</p>
 
