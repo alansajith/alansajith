@@ -5,17 +5,23 @@
   <img src="https://komarev.com/ghpvc/?username=alansajith&label=Profile%20views&color=0e75b6&style=flat" alt="alansajith" />
 </p>
 
-- 🔭 I’m currently working on **E-commerce Website**
-
-- 🌱 I’m currently learning **DJANGO and incorporating GenAI tools into my workflow**
-
-- 👯 I’m looking to collaborate on **Hackathons and Internships**
-
-- 💬 Ask me about **Academics**
-
-- 📫 How to reach me **alan.sajith1722@gmail.com**
-
-- ⚡ Fun fact **There is no code without a computer**
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 I’m currently working on <b>E-commerce Website</b></li>
+        <li>🌱 I’m currently learning <b>DJANGO and incorporating GenAI tools into my workflow</b></li>
+        <li>👯 I’m looking to collaborate on <b>Hackathons and Internships</b></li>
+        <li>💬 Ask me about <b>Academics</b></li>
+        <li>📫 How to reach me <b>alan.sajith1722@gmail.com</b></li>
+        <li>⚡ Fun fact <b>There is no code without a computer</b></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -35,7 +41,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -101,6 +107,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
+  <!-- Icons for languages and tools here -->
 </p>
 
 <h3 align="center">My Stats:</h3>
