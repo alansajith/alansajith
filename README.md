@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Sajith</h1>
-<h3 align="center">IInd year undergrad in Computer Science (AI)</h3>
+<h3 align="center">Third year undergrad in Computer Science (AI)</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alansajith&label=Profile%20views&color=0e75b6&style=flat" alt="alansajith" />
@@ -9,8 +9,8 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <b>E-commerce Website</b></li>
-        <li>🌱 I’m currently learning <b>DJANGO and incorporating GenAI tools into my workflow</b></li>
+        <li>🔭 I’m currently working on a <b>SAAS application</b></li>
+        <li>🌱 I’m currently learning <b>Full stack Development and incorporating GenAI tools into my workflow</b></li>
         <li>👯 I’m looking to collaborate on <b>Hackathons and Internships</b></li>
         <li>💬 Ask me about <b>Academics</b></li>
         <li>📫 How to reach me <b>alan.sajith1722@gmail.com</b></li>
